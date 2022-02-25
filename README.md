@@ -1,9 +1,3 @@
-# Pet_projects
-This repository contains a learning projects that exhibit an applying different python libraries for data analysis
-
-Этот репозиторий может служить примером того, как нужно оформлять свои проекты в резюме.
-
-## Пример описания проектов в README.md
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
 
